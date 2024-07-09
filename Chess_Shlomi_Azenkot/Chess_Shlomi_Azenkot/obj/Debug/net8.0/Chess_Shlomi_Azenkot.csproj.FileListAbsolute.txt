@@ -1,0 +1,14 @@
+C:\Users\shlom\source\repos\Chess_Shlomi_Azenkot\Chess_Shlomi_Azenkot\bin\Debug\net8.0\Chess_Shlomi_Azenkot.exe
+C:\Users\shlom\source\repos\Chess_Shlomi_Azenkot\Chess_Shlomi_Azenkot\bin\Debug\net8.0\Chess_Shlomi_Azenkot.deps.json
+C:\Users\shlom\source\repos\Chess_Shlomi_Azenkot\Chess_Shlomi_Azenkot\bin\Debug\net8.0\Chess_Shlomi_Azenkot.runtimeconfig.json
+C:\Users\shlom\source\repos\Chess_Shlomi_Azenkot\Chess_Shlomi_Azenkot\bin\Debug\net8.0\Chess_Shlomi_Azenkot.dll
+C:\Users\shlom\source\repos\Chess_Shlomi_Azenkot\Chess_Shlomi_Azenkot\bin\Debug\net8.0\Chess_Shlomi_Azenkot.pdb
+C:\Users\shlom\source\repos\Chess_Shlomi_Azenkot\Chess_Shlomi_Azenkot\obj\Debug\net8.0\Chess_Shlomi_Azenkot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shlom\source\repos\Chess_Shlomi_Azenkot\Chess_Shlomi_Azenkot\obj\Debug\net8.0\Chess_Shlomi_Azenkot.AssemblyInfoInputs.cache
+C:\Users\shlom\source\repos\Chess_Shlomi_Azenkot\Chess_Shlomi_Azenkot\obj\Debug\net8.0\Chess_Shlomi_Azenkot.AssemblyInfo.cs
+C:\Users\shlom\source\repos\Chess_Shlomi_Azenkot\Chess_Shlomi_Azenkot\obj\Debug\net8.0\Chess_Shlomi_Azenkot.csproj.CoreCompileInputs.cache
+C:\Users\shlom\source\repos\Chess_Shlomi_Azenkot\Chess_Shlomi_Azenkot\obj\Debug\net8.0\Chess_Shlomi_Azenkot.dll
+C:\Users\shlom\source\repos\Chess_Shlomi_Azenkot\Chess_Shlomi_Azenkot\obj\Debug\net8.0\refint\Chess_Shlomi_Azenkot.dll
+C:\Users\shlom\source\repos\Chess_Shlomi_Azenkot\Chess_Shlomi_Azenkot\obj\Debug\net8.0\Chess_Shlomi_Azenkot.pdb
+C:\Users\shlom\source\repos\Chess_Shlomi_Azenkot\Chess_Shlomi_Azenkot\obj\Debug\net8.0\Chess_Shlomi_Azenkot.genruntimeconfig.cache
+C:\Users\shlom\source\repos\Chess_Shlomi_Azenkot\Chess_Shlomi_Azenkot\obj\Debug\net8.0\ref\Chess_Shlomi_Azenkot.dll

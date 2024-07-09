@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Chess_Shlomi_Azenkot/1.0.0": {
+        "runtime": {
+          "Chess_Shlomi_Azenkot.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Chess_Shlomi_Azenkot/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
